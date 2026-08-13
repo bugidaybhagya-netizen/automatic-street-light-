@@ -1,0 +1,5 @@
+Time=0  | Reset=1 | Sensor=0 | Street Light=0
+Time=10 | Reset=0 | Sensor=0 | Street Light=0
+Time=30 | Reset=0 | Sensor=1 | Street Light=1
+Time=50 | Reset=0 | Sensor=0 | Street Light=0
+Time=70 | Reset=0 | Sensor=1 | Street Light=1
